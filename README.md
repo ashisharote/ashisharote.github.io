@@ -1,2 +1,2 @@
 # ashisharote.github.io
-Website
+Personal website repository
